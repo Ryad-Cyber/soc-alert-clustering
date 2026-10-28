@@ -1,0 +1,8 @@
+cluster,alert_count,dominant_alert_type,dominant_protocol,mean_severity_rank,mean_bytes_transferred,mean_event_count,mean_dst_port,distinct_src_ip
+2,75,Informational / Benign,TCP,0.0,1560.8,2.8,254.2,43
+0,54,Port Scan,TCP,0.4,239.1,44.3,502.6,31
+3,54,Failed Login,TCP,1.6,1203.0,22.2,1206.7,25
+1,36,DNS Tunneling Suspected,UDP,1.4,10519.2,63.9,53.0,21
+5,36,Malware Signature Match,TCP,2.0,31130.8,2.4,6978.9,25
+6,36,Unusual Outbound Traffic,TCP,0.4,42007.9,5.4,6002.7,21
+4,9,Unusual Outbound Traffic,TCP,0.7,33184.0,3.9,51820.0,9
