@@ -144,12 +144,6 @@ method, and the statistically "best" `k` is not guaranteed to be the most
 useful grouping for a human analyst to triage (see
 [Limitations](#limitations)).
 
-## Screenshots
-
-*(To be added.)* This section is reserved for terminal run screenshots
-and/or an annotated view of the output files, to be added after this
-initial publication.
-
 ## Limitations
 
 - **Clustering is not detection.** A group of statistically similar
@@ -175,8 +169,6 @@ initial publication.
   only because this is synthetic data, cluster quality could be checked
   informally against it here — on real alerts, there is usually no such
   ground truth to validate against.
-- **Screenshots not yet included** — see the [Screenshots](#screenshots)
-  section above.
 
 ## Skills demonstrated
 
